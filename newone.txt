@@ -1,3 +1,0 @@
-hello world
-it is the first new one text file here
-i try to add it to the git reposite
